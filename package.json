@@ -2,7 +2,14 @@
   "name": "mailtrap-email-testing",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "Md Hassan"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeblooded47/mailtrap-email-testing.git"
+  },
   "dependencies": {
     "axios": "^1.4.0",
     "dotenv": "^16.3.1"
